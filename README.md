@@ -1,7 +1,4 @@
-## Hi there 👋
 
-<!--
-**imohanrajcr/imohanrajcr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 <!-- ===================== BANNER ===================== -->
 <p align="center">
